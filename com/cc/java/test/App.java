@@ -9,8 +9,8 @@ public class App
 
         System.out.println("Hello, World!");
 
-        Helper.output("hi");
-        Helper.output(Integer.toString(2));
+        // Helper.output("hi");
+        // Helper.output(Integer.toString(2));
         // Helper.output(Integer.toString(2));
 
     }

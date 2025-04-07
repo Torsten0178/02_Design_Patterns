@@ -11,8 +11,8 @@ public class App {
     Helper.output(customer);
     // Helper.output(new Customer(1, "Maxine Mützerich", "Mützenhausen"));;
 
-    customer.initOrder();
-    customer.checkOrder();
+    // customer.initOrder();
+    // customer.checkOrder();
        
   
 
